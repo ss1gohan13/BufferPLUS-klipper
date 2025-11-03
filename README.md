@@ -453,6 +453,8 @@ Klipper configuration developed by [@ss1gohan13](https://github.com/ss1gohan13) 
 Hardware and original firmware by [Mellow 3D](https://github.com/mellow-3d).
 
 Special thanks to:
+- James on the Klipper Discord
+- Ian on the Klipper Discord
 - [Arksine](https://github.com/Arksine) for Katapult bootloader
 - [Klipper](https://github.com/Klipper3d/klipper) team
 
